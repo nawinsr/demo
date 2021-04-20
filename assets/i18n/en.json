@@ -1,0 +1,21 @@
+{
+  "PROJECT" : {
+    "TITLE"  : "Skip the Slip"
+  },
+"LOGIN" :{
+  "LOGIN" : "LOGIN",
+  "WELCOME" : "Welcome !"
+},
+"HEADER":{
+  "ADD" : " Add Store",
+  "REG" : "Registered Stores",
+  "LOGOUT" : "Logout"
+},
+"REG":{
+"REGSTORES" : "Registered Stores",
+"NAME": "Store Name",
+"ADDRESS":"Address",
+"EMAIL":"Email",
+"MOBILE":"Mobile"
+}
+}
